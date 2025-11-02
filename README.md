@@ -1,3 +1,2 @@
-# TTRS-HACK
-This is one of the only TTRS hacks that works!
-You press and hold alt+a, then press the answer box in ttrs and it instantly answers!
+# TTRS-HACK IT WORKS! (2025)
+Just hold down ctrl+a and click the answer box, spam it if you want!
